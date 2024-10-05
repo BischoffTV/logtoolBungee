@@ -1,0 +1,5 @@
+name: LogtoolBungee
+main: org.bischofftv.logtoolBungee.LogtoolBungee
+version: 1.0
+description: BungeeCord plugin to log activities and handle blacklist.
+author: BischoffTV

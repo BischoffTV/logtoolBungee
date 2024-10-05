@@ -1,0 +1,6 @@
+blacklist:
+  - badword1
+  - badword2
+  - badword3
+
+blacklist-action: "kick %player% Blacklisted word detected"
